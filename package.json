@@ -1,0 +1,15 @@
+{
+  "name": "framework-arduinoteensy-ds4",
+  "version": "1.153.0",
+  "description": "Arduino Wiring-based Framework for Teensy boards (Patched with DS4 Emulation Support)",
+  "keywords": [
+    "framework",
+    "arduino",
+    "teensy"
+  ],
+  "homepage": "https://www.arduino.cc/reference/en",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PaulStoffregen/cores"
+  }
+}

@@ -1,0 +1,12 @@
+[submodule "cores"]
+	path = cores
+	url = https://github.com/Project-Alpaca/teensy-cores.git
+[submodule "libraries/EEPROM"]
+	path = libraries/EEPROM
+	url = https://github.com/PaulStoffregen/EEPROM.git
+[submodule "libraries/SPI"]
+	path = libraries/SPI
+	url = https://github.com/PaulStoffregen/SPI.git
+[submodule "libraries/Wire"]
+	path = libraries/Wire
+	url = https://github.com/PaulStoffregen/Wire.git
